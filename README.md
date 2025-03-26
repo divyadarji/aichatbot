@@ -1,4 +1,4 @@
-# Chatbot Service API
+# AI CHATBOT 
 
 ## Overview
 This is a Flask-based chatbot service that integrates with Google's Gemini AI to generate responses based on website content. The chatbot dynamically extracts relevant information from a website to provide accurate answers.

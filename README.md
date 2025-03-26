@@ -82,7 +82,7 @@ By default, the application runs on `http://127.0.0.1:5000/`
 - Add authentication for API requests
 
 ## Contributors
-- **Divya Kumar Darji** - AI/ML Engineer
+- **DivyaKumar Darji** - AI/ML Engineer
 
 ## License
 This project is licensed under the MIT License.

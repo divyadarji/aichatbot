@@ -33,7 +33,11 @@ Ensure you have Python installed along with the required dependencies.
    ```
    GEMINI_API_KEY=your_api_key_here
    ```
-
+5. Change DEFAULT_WEBSITE = "you desirable website" IN app.py file 
+   ```
+   DEFAULT_WEBSITE = "https://divyadarji.vercel.app/"
+   DEFAULT_WEBSITE = "https://example.com/"
+   ```
 ## Usage
 
 ### Running the Application
